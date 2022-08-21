@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/userstyles">Userstyles</a>
+	Catppuccin <a href="https://github.com/catppuccin/userstyles">Userstyles</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -16,17 +16,17 @@
 </p>
 
 ## Available userstyles
-- [Anilist](https://github.com/catppuccin/userstyles/tree/main/anilist)
-- [DeepL](https://github.com/catppuccin/userstyles/tree/main/deepl)
-- [Discord](https://github.com/catppuccin/userstyles/tree/main/discord)
-- [GitHub](https://github.com/catppuccin/userstyles/tree/main/github)
-- [Ichi.moe](https://github.com/catppuccin/userstyles/tree/main/ichi.moe)
-- [Last.fm](https://github.com/catppuccin/userstyles/tree/main/lastfm)
-- [Libreddit](https://github.com/catppuccin/userstyles/tree/main/libreddit)
-- [MonkeyType](https://github.com/catppuccin/userstyles/tree/main/monkeytype)
-- [Nitter](https://github.com/catppuccin/userstyles/tree/main/nitter)
-- [Whoogle](https://github.com/catppuccin/userstyles/tree/main/whoogle)
-- [Youtube](https://github.com/catppuccin/userstyles/tree/main/youtube)
+- [Anilist](https://github.com/catppuccin/anilist)
+- [DeepL](https://github.com/catppuccin/deepl)
+- [Discord](https://github.com/catppuccin/discord)
+- [GitHub](https://github.com/catppuccin/github)
+- [Ichi.moe](https://github.com/catppuccin/ichi.moe)
+- [Last.fm](https://github.com/catppuccin/lastfm)
+- [Libreddit](https://github.com/catppuccin/libreddit)
+- [MonkeyType](https://github.com/catppuccin/monkeytype)
+- [Nitter](https://github.com/catppuccin/nitter)
+- [Whoogle](https://github.com/catppuccin/whoogle)
+- [Youtube](https://github.com/catppuccin/youtube)
  
 
 
@@ -35,7 +35,7 @@
 
 1. Follow the instructions on the individual README
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 -	Q: **_"I can't find a theme to some website"_**
 	A: You can request ports for your website in the [GitHub Issues](https://github.com/catppuccin/catppuccin/issues) (Please search through open port requests before submitting a new one).
