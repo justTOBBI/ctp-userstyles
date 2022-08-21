@@ -1,0 +1,31 @@
+[submodule "deepl"]
+	path = deepl
+	url = https://github.com/catppuccin/deepl
+[submodule "ichi.moe"]
+	path = ichi.moe
+	url = https://github.com/catppuccin/ichi.moe
+[submodule "monkeytype"]
+	path = monkeytype
+	url = https://github.com/catppuccin/monkeytype
+[submodule "youtube"]
+	path = youtube
+	url = https://github.com/catppuccin/youtube
+[submodule "github"]
+	path = github
+	url = https://github.com/catppuccin/github
+[submodule "nitter"]
+	path = nitter
+	url = https://github.com/catppuccin/nitter
+[submodule "libreddit"]
+	path = libreddit
+	url = https://github.com/catppuccin/libreddit
+[submodule "anilist"]
+	path = anilist
+	url = https://github.com/catppuccin/anilist
+[submodule "discord"]
+	path = discord
+	url = https://github.com/catppuccin/discord
+	branch = dev
+[submodule "lastfm"]
+	path = lastfm
+	url = https://github.com/catppuccin/lastfm
