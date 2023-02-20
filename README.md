@@ -11,6 +11,9 @@
 	<a href="https://github.com/catppuccin/userstyles/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/userstyles?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+# About
+For instructions on how to install each Theme, please visit the individual READMEs
+
 ## Available userstyles
 - [AniList](styles/AniList/)
 - [Brave Search](styles/brave-search/)
