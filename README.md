@@ -11,39 +11,33 @@
 	<a href="https://github.com/catppuccin/userstyles/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/userstyles?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
-</p>
-
 ## Available userstyles
-- [Anilist](https://github.com/catppuccin/anilist)
-- [DeepL](https://github.com/catppuccin/deepl)
-- [Discord](https://github.com/catppuccin/discord)
-- [GitHub](https://github.com/catppuccin/github)
-- [Ichi.moe](https://github.com/catppuccin/ichi.moe)
-- [Last.fm](https://github.com/catppuccin/lastfm)
-- [Libreddit](https://github.com/catppuccin/libreddit)
-- [MonkeyType](https://github.com/catppuccin/monkeytype)
-- [Nitter](https://github.com/catppuccin/nitter)
-- [Whoogle](https://github.com/catppuccin/whoogle)
-- [Youtube](https://github.com/catppuccin/youtube)
- 
-
-
-
-## Usage
-
-1. Follow the instructions on the individual README
-
-## 🙋 FAQ
-
--	Q: **_"I can't find a theme to some website"_**
-	A: You can request ports for your website in the [GitHub Issues](https://github.com/catppuccin/catppuccin/issues) (Please search through open port requests before submitting a new one).
-
-## 💝 Thanks to
-
-- [justTOBBI](https://github.com/justtobbi)
-- the other Port Maintainers as mentioned in the Readme's
+- [AniList](styles/AniList/)
+- [Brave Search](styles/brave-search/)
+- [Codeberg](styles/Codeberg/)
+- [DeepL](styles/DeepL/)
+- [DuckDuckGo](styles/DuckDuckGo/)
+- [GitHub](styles/GitHub/)
+- [Hacker News](styles/hacker-news/)
+- [Ichi.moe](styles/ichi.moe/)
+- [Invidious](styles/invidious/)
+- [last.fm](styles/lastfm/)
+- [libreddit](styles/libreddit/)
+- [Mastodon](styles/mastodon/)
+- [Modrinth](styles/modrinth/)
+- [Monkeytype](styles/monkeytype/)
+- [Nitter](styles/nitter/)
+- [Proton](styles/proton/)
+- [Reddit](styles/reddit/)
+- [SearXNG](styles/SearXNG/)
+- [Stable Diffusion WebUi](styles/stable-diffusion-web-ui/)
+- [Tutanota](styles/tutanota/)
+- [Twitch](styles/twitch/)
+- [Vercel](styles/vercel/)
+- [Whoogle](styles/whoogle/)
+- [Wikiwand](styles/wikiwand/)
+- [Youtube](styles/youtube/)
+- [Youtube Music](styles/youtubemusic/)
 
 &nbsp;
 
